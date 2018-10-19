@@ -1,12 +1,17 @@
+<html lang="ja">
+<head>
+<meta http-equiv="content-type" charset="utf-8">
+</head>
+<body>
 <form method="post" action="mission_1-4.php">
-<input type="text" name="message" value="ƒRƒƒ“ƒg">
-<input type="submit" value="‘—M">
+<input type="text" name="message" value="ã‚³ãƒ¡ãƒ³ãƒˆ">
+<input type="submit" value="é€ä¿¡">
 
 </form>
 
 <?php
 $value=$_POST['message'];
-$time=date("Y”NmŒŽd“úGŽži•ª");
-print'‚²“ü—Í‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B<br>
-¢'.$time.'v‚É¢'.$value.'£‚ðŽó‚¯•t‚¯‚Ü‚µ‚½B';
+$time=date("Yå¹´mæœˆdæ—¥Gæ™‚iåˆ†");
+print'ã”å…¥åŠ›ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™ã€‚<br>
+ï½¢'.$time.'ã€ã«ï½¢'.$value.'ï½£ã‚’å—ã‘ä»˜ã‘ã¾ã—ãŸã€‚';
 ?>
