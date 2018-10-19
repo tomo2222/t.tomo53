@@ -4,8 +4,8 @@
 </head>
 <body>
 <form action = "mission_1-6.php" method="post">
-<input type = "text" name="comment" value=""placeholder="ƒRƒƒ“ƒg"">
-<input type ="submit" value="‘—M">
+<input type = "text" name="comment" value=""placeholder="ã‚³ãƒ¡ãƒ³ãƒˆ"">
+<input type ="submit" value="â€˜é€ä¿¡">
 </form>
 </body>
 </html>
